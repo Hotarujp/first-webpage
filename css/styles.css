@@ -1,0 +1,82 @@
+body {
+  margin: 0 auto;
+  background-color: #FEFBF3;
+  text-align: center;
+  position: relative;
+  max-width: 800px;
+}
+
+li {
+  list-style: none;
+  display: inline-block;
+}
+
+a {
+  font-family: 'Playfair Display', serif;
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+h1, h2 {
+  color: #79B4B7;
+  font-family: 'Playfair Display', serif;
+}
+
+h4{
+  font-family: 'Tangerine', cursive;
+  font-size: 40px;
+}
+
+p {
+  font-family: 'Zen Old Mincho', serif;
+}
+
+lable {
+  font-family: 'Zen Old Mincho', serif;
+}
+
+.header-list {
+  padding: 0 10px;
+}
+
+.header-img {
+  height: 300px;
+}
+
+.introduction {
+  width: 400px;
+  position: relative;
+  left: 350px;
+}
+
+.profile-img {
+  width: 200px;
+  position: absolute;
+  left: 50px;
+}
+
+.website-img {
+  width: 180px;
+  position: absolute;
+  left: 60px;
+}
+
+#about {
+  margin-top: 80px;
+  border-top: 3px dashed #9D9D9D;
+}
+
+#work {
+  margin-top: 80px;
+  border-top: 3px dashed #9D9D9D;
+}
+
+#contact {
+  margin-top: 150px;
+  margin-bottom: 80px;
+  border-top: 3px dashed #9D9D9D;
+}
